@@ -8,5 +8,6 @@ namespace Demo.models
 {
     internal class User
     {
+        public int MSSV { get; set; }
     }
 }
